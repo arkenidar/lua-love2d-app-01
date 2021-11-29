@@ -3,7 +3,7 @@
 --- "C:\Program Files\LOVE\love" .
 
 -- cygwin
---- cd /cygdrive/c/Users/dario/Dropbox/info-sharing/projects/lua-love2d-app-1 && /cygdrive/c/Program\ Files/LOVE/love.exe .
+--- cd /cygdrive/c/Users/dario/Dropbox/info-sharing/projects/lua-love2d-app-01 && /cygdrive/c/Program\ Files/LOVE/love.exe .
 
 -- rectangles
 border=5
